@@ -1,4 +1,5 @@
-import { DATA, getProjectData } from "@/app/data";
+// import { DATA, getProjectData } from "@/app/data";
+import { getProjectData } from "@/app/data";
 import { ArrowUpRight } from "lucide-react";
 import Image from "next/image";
 import { notFound } from "next/navigation";
@@ -73,7 +74,7 @@ export default async function Page({ params }: PageProps) {
         )}
       </div>
 
-      <div className="mt-8 flex justify-center">
+      {/* <div className="mt-8 flex justify-center">
         <a
           target="_blank"
           rel="noopener noreferrer"
@@ -82,7 +83,7 @@ export default async function Page({ params }: PageProps) {
         >
           View all projects
         </a>
-      </div>
+      </div> */}
     </section>
   );
 }

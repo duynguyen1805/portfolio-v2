@@ -1,6 +1,6 @@
-import LibraryImage from "@/assets/library.png";
-import SkygazeImage from "@/assets/skygaze.png";
-import TodoImage from "@/assets/todo.png";
+// import LibraryImage from "@/assets/library.png";
+// import SkygazeImage from "@/assets/skygaze.png";
+// import TodoImage from "@/assets/todo.png";
 import { StaticImageData } from "next/image";
 import { cache } from "react";
 
@@ -75,7 +75,7 @@ export const DATA = {
         LOCATION: "Onsite - Can Tho, Viet Nam",
         DURATION: "May, 2023 - Aug, 2023",
         DESCRIPTION: [
-          "Developed key features for the company’s website, including: Registration with OTP verification. Search and appointment booking system. Appointment management for clinics. QR code integration for direct appointment booking. Clinic management, examination workflows, email invoicing, and prescription management.",
+          "Developed key features for the company's website, including: Registration with OTP verification. Search and appointment booking system. Appointment management for clinics. QR code integration for direct appointment booking. Clinic management, examination workflows, email invoicing, and prescription management.",
           "Worked closely with senior developers to optimize system architecture and improve user experience.",
           "Successfully delivered a system that received positive feedback from supervisors and demonstrated practical applicability.",
         ],
@@ -113,7 +113,7 @@ export const DATA = {
 
   PROJECTS: {
     "Solorium": {
-      SLUG: "solorium",
+      SLUG: "solorium-website",
       LIVE_PREVIEW: "https://solorium.com/",
       DESCRIPTION: [
         "Designed and developed backend APIs for core features including package purchasing, reward claiming, and affiliate system operations.",
@@ -133,10 +133,10 @@ export const DATA = {
       HIDDEN: false,
     },
     "Packdraw": {
-      SLUG: "packdraw",
+      SLUG: "packdraw-website",
       // LIVE_PREVIEW: "https://packdraw.dxdlabs.dev/",
       DESCRIPTION: [
-        "Designed and developed APIs, managing the system’s database.",
+        "Designed and developed APIs, managing the system's database.",
         "Estimated API implementation timelines to ensure project deadlines.",
         "Built and optimized security mechanisms to safeguard user accounts.",
       ],
@@ -153,7 +153,7 @@ export const DATA = {
       HIDDEN: false,
     },
     "Karaoke Box App": {
-      SLUG: "karaoke-box",
+      SLUG: "karaoke-box-app",
       // LIVE_PREVIEW: "",
       DESCRIPTION: [
         "Develop, maintain, and enhance the system's API.",
@@ -174,7 +174,7 @@ export const DATA = {
       HIDDEN: false,
     },
     "Decot": {
-      SLUG: "Decot",
+      SLUG: "decot-website",
       LIVE_PREVIEW: "https://app.decot.io/",
       // GITHUB: "https://github.com/Utkarsh-Singhal-26/todo-extension",
       DESCRIPTION: [
@@ -196,7 +196,7 @@ export const DATA = {
       HIDDEN: false,
     },
     "Ura Chat App": {
-      SLUG: "ura-chat",
+      SLUG: "ura-chat-app",
       // LIVE_PREVIEW: "",
       // GITHUB: "https://github.com/Utkarsh-Singhal-26/todo-extension",
       DESCRIPTION: [
@@ -220,7 +220,7 @@ export const DATA = {
       HIDDEN: false,
     },
     "2HandMarket (Personal Project)": {
-      SLUG: "2handmarket",
+      SLUG: "2handmarket-website",
       LIVE_PREVIEW: "https://2handmarket.vercel.app/",
       GITHUB: "https://github.com/duynguyen1805/2handmarket",
       DESCRIPTION: [

@@ -22,14 +22,14 @@ export async function generateMetadata({
   }
 
   return {
-    title: `${project[0]} | Utkarsh Singhal`,
+    title: `${project[0]} | Duy Nguyen | Software Developer`,
     description: project[1].DESCRIPTION[0],
     openGraph: {
       title: project[0],
       description: project[1].DESCRIPTION[0],
       images: [
         {
-          url: project[1].IMAGE.src,
+          url: project[1].IMAGE?.src,
           width: 1200,
           height: 630,
           alt: project[0],

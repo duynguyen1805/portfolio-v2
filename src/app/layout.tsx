@@ -1,7 +1,7 @@
 import { Analytics } from "@vercel/analytics/next";
 import { SpeedInsights } from "@vercel/speed-insights/next";
 import type { Metadata } from "next";
-import { ThemeProvider } from "next-themes";
+// import { ThemeProvider } from "next-themes";
 import { Outfit } from "next/font/google";
 import "./globals.css";
 
@@ -15,24 +15,24 @@ export const metadata: Metadata = {
   title: "Duy Nguyen | Software Developer",
   description:
     "Software developer specializing in JavaScript, TypeScript and Node.js.",
-  openGraph: {
-    title: "Duy Nguyen | Software Developer",
-    description:
-      "Software developer specializing in JavaScript, TypeScript, and Node.js. Experienced in building scalable, high-performance applications.",
-    url: "https://duynguyen-portfolio.vercel.app/",
-    type: "website",
-    images: [
-      {
-        url: "https://utkarsh-singhal.is-a.dev/opengraph-image.png",
-        width: 1200,
-        height: 630,
-        alt: "Duy Nguyen | Software Developer",
-      },
-    ],
-  },
-  twitter: {
-    card: "summary_large_image",
-  },
+  // openGraph: {
+  //   title: "Duy Nguyen | Software Developer",
+  //   description:
+  //     "Software developer specializing in JavaScript, TypeScript, and Node.js. Experienced in building scalable, high-performance applications.",
+  //   url: "https://duynguyen-portfolio.vercel.app/",
+  //   type: "website",
+  //   images: [
+  //     {
+  //       url: "https://utkarsh-singhal.is-a.dev/opengraph-image.png",
+  //       width: 1200,
+  //       height: 630,
+  //       alt: "Duy Nguyen | Software Developer",
+  //     },
+  //   ],
+  // },
+  // twitter: {
+  //   card: "summary_large_image",
+  // },
   authors: [
     { name: "Duy Nguyen", url: "https://duynguyen-portfolio.vercel.app/" },
   ],

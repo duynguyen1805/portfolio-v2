@@ -10,10 +10,8 @@ interface IProjectData {
 
 export function Projects({
   data,
-  all,
 }: {
   data: Record<string, IProjectData>;
-  all: string;
 }) {
   return (
     <div id="projects" className="py-10">
