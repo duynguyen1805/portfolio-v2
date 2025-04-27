@@ -1,6 +1,7 @@
 import { ArrowUpRight } from "lucide-react";
 
 interface IProjectData {
+  DURATION?: string;
   LIVE_PREVIEW?: string;
   GITHUB?: string;
   DESCRIPTION: string[];
@@ -44,6 +45,9 @@ export function Projects({
                     )}
                   </p>
                 </div>
+                <p className="text-sm text-muted-foreground pt-1">
+                  {value.DURATION}
+                </p>
               </div>
 
               <ul className="mt-4 list-disc space-y-1 pl-3 text-sm text-muted-foreground text-justify">

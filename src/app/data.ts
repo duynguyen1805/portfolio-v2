@@ -114,6 +114,7 @@ export const DATA = {
   PROJECTS: {
     "Solorium": {
       SLUG: "solorium-website",
+      DURATION: "03, 2025 - Now",
       LIVE_PREVIEW: "https://solorium.com/",
       DESCRIPTION: [
         "Designed and developed backend APIs for core features including package purchasing, reward claiming, and affiliate system operations.",
@@ -134,6 +135,7 @@ export const DATA = {
     },
     "Packdraw": {
       SLUG: "packdraw-website",
+      DURATION: "01, 2025 - Now",
       // LIVE_PREVIEW: "https://packdraw.dxdlabs.dev/",
       DESCRIPTION: [
         "Designed and developed APIs, managing the system's database.",
@@ -154,6 +156,7 @@ export const DATA = {
     },
     "Karaoke Box App": {
       SLUG: "karaoke-box-app",
+      DURATION: "01, 2025 - Now",
       // LIVE_PREVIEW: "",
       DESCRIPTION: [
         "Develop, maintain, and enhance the system's API.",
@@ -175,6 +178,7 @@ export const DATA = {
     },
     "Decot": {
       SLUG: "decot-website",
+      DURATION: "09, 2024 - 12, 2024",
       LIVE_PREVIEW: "https://app.decot.io/",
       // GITHUB: "https://github.com/Utkarsh-Singhal-26/todo-extension",
       DESCRIPTION: [
@@ -197,6 +201,7 @@ export const DATA = {
     },
     "Ura Chat App": {
       SLUG: "ura-chat-app",
+      DURATION: "08, 2024 - 09, 2024",
       // LIVE_PREVIEW: "",
       // GITHUB: "https://github.com/Utkarsh-Singhal-26/todo-extension",
       DESCRIPTION: [
@@ -221,6 +226,7 @@ export const DATA = {
     },
     "2HandMarket (Personal Project)": {
       SLUG: "2handmarket-website",
+      DURATION: "08, 2023 - 12, 2023",
       LIVE_PREVIEW: "https://2handmarket.vercel.app/",
       GITHUB: "https://github.com/duynguyen1805/2handmarket",
       DESCRIPTION: [
