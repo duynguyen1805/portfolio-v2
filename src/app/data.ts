@@ -112,7 +112,7 @@ export const DATA = {
   },
 
   PROJECTS: {
-    "Solorium": {
+    "So****um": {
       SLUG: "solorium-website",
       DURATION: "03, 2025 - Now",
       LIVE_PREVIEW: "https://solorium.com/",
@@ -133,7 +133,7 @@ export const DATA = {
       // IMAGE: SkygazeImage,
       HIDDEN: false,
     },
-    "Packdraw": {
+    "Pa****aw": {
       SLUG: "packdraw-website",
       DURATION: "01, 2025 - Now",
       // LIVE_PREVIEW: "https://packdraw.dxdlabs.dev/",
@@ -154,7 +154,7 @@ export const DATA = {
       // IMAGE: LibraryImage,
       HIDDEN: false,
     },
-    "Karaoke Box App": {
+    "Ka****ox App": {
       SLUG: "karaoke-box-app",
       DURATION: "01, 2025 - Now",
       // LIVE_PREVIEW: "",
@@ -176,7 +176,7 @@ export const DATA = {
       ],
       HIDDEN: false,
     },
-    "Decot": {
+    "D***t": {
       SLUG: "decot-website",
       DURATION: "09, 2024 - 12, 2024",
       LIVE_PREVIEW: "https://app.decot.io/",
@@ -199,7 +199,7 @@ export const DATA = {
       // IMAGE: TodoImage,
       HIDDEN: false,
     },
-    "Ura Chat App": {
+    "Ur****at App": {
       SLUG: "ura-chat-app",
       DURATION: "08, 2024 - 09, 2024",
       // LIVE_PREVIEW: "",
