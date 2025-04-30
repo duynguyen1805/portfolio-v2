@@ -1,30 +1,30 @@
 "use client";
 
-import { Moon, Sun } from "lucide-react";
-import { useTheme } from "next-themes";
+// import { Moon, Sun } from "lucide-react";
+// import { useTheme } from "next-themes";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
-import { useEffect, useState } from "react";
+// import { useEffect, useState } from "react";
 import { AnimatedText, MovingElement } from "../navbar";
 
 export function Navbar() {
   const router = useRouter();
-  const { setTheme, resolvedTheme } = useTheme();
-  const [isMounted, setIsMounted] = useState(false);
+  // const { setTheme, resolvedTheme } = useTheme();
+  // const [isMounted, setIsMounted] = useState(false);
 
-  useEffect(() => {
-    setIsMounted(true);
-  }, []);
+  // useEffect(() => {
+  //   setIsMounted(true);
+  // }, []);
 
-  const toggleTheme = () => {
-    const nextTheme =
-      resolvedTheme === "dark"
-        ? "light"
-        : resolvedTheme === "light"
-          ? "dark"
-          : "system";
-    setTheme(nextTheme);
-  };
+  // const toggleTheme = () => {
+  //   const nextTheme =
+  //     resolvedTheme === "dark"
+  //       ? "light"
+  //       : resolvedTheme === "light"
+  //         ? "dark"
+  //         : "system";
+  //   setTheme(nextTheme);
+  // };
 
   return (
     <header className="flex justify-between items-end">
