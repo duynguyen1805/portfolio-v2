@@ -46,7 +46,7 @@ export function Navbar() {
           ))}
         </ul>
 
-        {isMounted && (
+        {/* {isMounted && (
           <MovingElement
             className="rounded-full p-[10px]"
             change={toggleTheme}
@@ -56,7 +56,7 @@ export function Navbar() {
           >
             {resolvedTheme === "dark" ? <Moon /> : <Sun />}
           </MovingElement>
-        )}
+        )} */}
       </nav>
     </header>
   );
