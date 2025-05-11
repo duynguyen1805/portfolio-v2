@@ -59,12 +59,12 @@ export function Header({ data }: { data: Record<string, string> }) {
             >
               <Facebook />
             </MovingElement>
-            <MovingElement
+            {/* <MovingElement
               change={() => handleChange(data.GITLAB)}
               ariaLabel="Gitlab"
             >
               <Gitlab />
-            </MovingElement>
+            </MovingElement> */}
           </div>
         </div>
       </div>

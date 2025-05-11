@@ -28,7 +28,7 @@ export const DATA = {
     GITHUB: "https://github.com/duynguyen1805",
     LINKEDIN: "https://www.linkedin.com/in/nguyen-tran-718301267/",
     FACEBOOK: "https://www.facebook.com/tdn.sb/",
-    GITLAB: "https://gitlab.dxdlabs.dev/duynguyenqwert",
+    // GITLAB: "https://gitlab.dxdlabs.dev/duynguyenqwert",
   },
 
   ABOUT_ME: {
