@@ -135,7 +135,7 @@ export const DATA = {
     },
     "Pa****aw": {
       SLUG: "packdraw-website",
-      DURATION: "01, 2025 - Now",
+      DURATION: "01, 2025 - 05, 2025",
       // LIVE_PREVIEW: "https://packdraw.dxdlabs.dev/",
       DESCRIPTION: [
         "Designed and developed APIs, managing the system's database.",
