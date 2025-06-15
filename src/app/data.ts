@@ -23,7 +23,7 @@ export const DATA = {
     HEADLINE:
       "Passionate about building high-performance and scalable web applications.",
     RESUME:
-      "https://drive.google.com/file/d/1S5jQEDDtv59uzYzZ6tREjXyyS0G7y_eb/view?usp=drive_link",
+      "https://drive.google.com/file/d/1kMwxYjOEZg2TfiklGdbTfwvyghkQMLB6/view?usp=sharing",
     EMAIL: "mailto:tdnguyen.andy@gmail.com",
     GITHUB: "https://github.com/duynguyen1805",
     LINKEDIN: "https://www.linkedin.com/in/nguyen-tran-718301267/",
